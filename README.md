@@ -1,6 +1,13 @@
-# My Plugin
+# `delete`
 
-Simple description of your plugin.
+An alias to `rm -Rf` (macOS only).
+
+## Usabe
+
+```bash
+delete <file>
+delete <folder>
+```
 
 ## Install
 
@@ -27,12 +34,3 @@ antigen bundle github-username/my-plugin
 ### 1.0.0
 
 - First version
-
----
-
-## Delete Me
-
-# - [ ] Rename `plugin-slug.plugin.zsh` to match your repo, e.g. `aubreypwd/my-plugin` becomes `my-plugin.plugin.zsh`
-# - [ ] Re-write `README.md` and replace `plugin-slug` with your repo name and `github-username` with your Github username
-
-That's it!
