@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-alias delete="rm -Rf"
+alias delete="rm -R"
